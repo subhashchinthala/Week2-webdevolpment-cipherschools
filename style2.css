@@ -1,0 +1,34 @@
+/*{
+    color: blue;
+ } */
+
+header{
+    background-color: azure;
+}
+
+section.my-article{
+    background-color: #f2e9e9;
+}
+header p{
+    color: red;
+}
+
+li a{
+    color: blue;
+}
+
+/*section.my-article h2{
+    color: green;
+}*/
+
+section.my-article > h2{
+    color: green;
+}
+
+h2+p{
+    color: orange;
+}
+
+ul+p{
+    color: pink;
+}

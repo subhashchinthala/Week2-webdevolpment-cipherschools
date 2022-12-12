@@ -1,0 +1,12 @@
+div#container ul.my-songs li{
+    color: brown;
+    background-color: yellow;
+}
+.favourit{
+    color: yellow;
+    background-color: brown;
+}
+
+/* 0, 0, 1, 0 ----> 10 */
+
+/* How to calculate specificity */

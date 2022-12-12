@@ -1,0 +1,25 @@
+.container{
+    width: 1400px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+}
+
+h1{
+    background-color: #cdcdcd;
+    text-align: center;
+}
+
+section.about-me, section.about-lilly{
+    /* background-color: ; */
+    border: 2px solid #666;
+    padding: 10px;
+}
+
+.about-me{
+    margin-bottom: 40px;
+}
+
+section h3{
+    text-transform: uppercase;
+    color: #444;
+}
